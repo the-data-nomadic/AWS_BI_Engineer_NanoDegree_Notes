@@ -1,6 +1,6 @@
 # AWS BI Engineer Nanodegree Notes
 
-Welcome! This repo contains my personal notes, reflections, and resources from the AWS BI Engineer Nanodegree. I'm documenting each lesson and project to support fellow learners — especially those navigating tech from 0.
+Welcome! This repo contains my personal notes, reflections, and resources from the AWS BI Engineer Nanodegree. I'm documenting each lesson and project to support fellow learners especially those navigating tech from 0.
 
 ## 📚 Contents
 - 6 Lessons
