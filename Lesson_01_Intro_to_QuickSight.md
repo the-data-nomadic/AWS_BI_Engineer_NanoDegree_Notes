@@ -6,10 +6,12 @@ This lesson introduces **Amazon Q**, a powerful feature within **Amazon QuickSig
 ---
 
 ## 🚀 The ABCs
-- **Amazon QuickSight**: A full-stack analytics platform for building dashboards and visualizing data.
+
+- **Amazon QuickSight**: QuickSight is part of Amazon’s broader AWS ecosystem, which offers a serverless, scalable solution for business intelligence needs. 
 - **Amazon Q**: A built-in feature that uses NLP to help users interact with data using natural language no technical expertise required.
 - It uses **SPICE** (Super-fast, Parallel, In-memory Calculation Engine) for fast data analysis.
 - Supports multiple data sources: S3, Redshift, Athena, RDS, and more.
+<img width="900" height="519" alt="image" src="https://github.com/user-attachments/assets/41f91424-6290-4ae4-aac5-841ea6889b00" />
 
 ---
 
@@ -30,6 +32,8 @@ This lesson introduces **Amazon Q**, a powerful feature within **Amazon QuickSig
 - QuickSight is designed for speed, scalability, and ease of use.
 - Dynamic controls empower users to explore data on their own.
 - Amazon Q adds a layer of accessibility for non-technical stakeholders.
+- <img width="700" height="584" alt="image" src="https://github.com/user-attachments/assets/305b2538-ea7f-4a97-b483-4b3d9ef33b58" />
+
 
 ---  
 ## ⚡ Advantages of Amazon Q
@@ -43,6 +47,7 @@ This lesson introduces **Amazon Q**, a powerful feature within **Amazon QuickSig
 - **Iterative Refinement**: Transition smoothly from exploratory analysis to polished dashboards.
 
 ---
+
 
 ## 📚 Resources
 - [QuickSight Documentation](https://docs.aws.amazon.com/quicksight/)
